@@ -596,4 +596,4 @@ def main(stdscr):
     buffer.save_to_file(args.filename)
 
 if __name__ == "__main__":
-    curses.wrapper(main)
+    print("BeagleEditor CLI is not supported anymore. Please move to BeagleEditor (GUI) or alternatives like Vim. ")
